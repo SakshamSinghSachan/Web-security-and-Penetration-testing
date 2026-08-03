@@ -8,13 +8,13 @@ This directory contains my write-ups for **SQL Injection** labs completed as par
 
 * **Difficulty:** Apprentice
 * **Status:** ✅ Completed
-* **Write-up:** [View Lab Write-up](./Lab-01-WHERE-Clause-Hidden-Data.md)
+* **Write-up:** [View Lab Write-up](./Lab-01-SQL-injection-vulnerability-in-WHERE-clause-allowing-retrieval-of-hidden-data.md)
 
 ### 2. SQL injection vulnerability allowing login bypass
 
 * **Difficulty:** Apprentice
 * **Status:** ✅ Completed
-* **Write-up:** [View Lab Write-up](./Lab-02-Login-Bypass.md)
+* **Write-up:** [View Lab Write-up](./Lab-02-SQL-injection-vulnerability-allowing-login-bypass.md)
 
 ## Topics Covered
 
